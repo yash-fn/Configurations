@@ -21,6 +21,8 @@
  */
 #pragma once
 
+#define CONFIG_EXAMPLES_DIR "adafruit/ST7565"
+
 /**
  * Configuration_adv.h
  *
